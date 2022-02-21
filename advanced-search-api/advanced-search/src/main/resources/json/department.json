@@ -1,0 +1,18 @@
+[
+	{
+		"deptId": 1001,
+		"deptName": "FINANCE"
+	},
+	{
+		"deptId": 2001,
+		"deptName": "AUDIT"
+	},
+	{
+		"deptId": 3001,
+		"deptName": "MARKETING"
+	},
+	{
+		"deptId": 4001,
+		"deptName": "PRODUCTION"
+	}
+]

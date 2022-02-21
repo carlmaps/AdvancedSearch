@@ -1,0 +1,27 @@
+[
+  {
+    "grade":1,
+    "minSalary":800,
+    "maxSalary":1300
+  },
+  {
+    "grade":2,
+    "minSalary":1301,
+    "maxSalary":1500
+  },
+  {
+    "grade":3,
+    "minSalary":1501,
+    "maxSalary":2100
+  },
+  {
+    "grade":4,
+    "minSalary":2101,
+    "maxSalary":3100
+  },
+  {
+    "grade":5,
+    "minSalary":3101,
+    "maxSalary":9999
+  }
+]
